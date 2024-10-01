@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Ilustraciones",
+        "descripcion": " lorem",
+        "fecha": "2022",
+        "signo": "ilustracion",
+        "foto": "https://github.com/user-attachments/assets/416ad395-aacf-4857-a12f-05b8a877bded",
+        "fotos": " ",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Golem aéreo",
+        "fecha": "2022",
+        "signo": "modelado3D",
+        "foto": "https://github.com/user-attachments/assets/1445fd47-bc66-4256-89c7-0bf81d5fee97",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Converse Design",
+        "fecha": "2024",
+        "signo": "modelado3D",
+        "foto": "https://github.com/user-attachments/assets/7282db27-b03c-4a05-8b97-65aa78a4555c",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Heal Em Up!",
+        "fecha": "2024",
+        "signo": "ilustracion",
+        "foto": "https://github.com/user-attachments/assets/6d4f842f-3017-40a1-92bd-5feee7ea8f7f",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Magic & Candle",
+        "fecha": "2024",
+        "signo": "modelado3D",
+        "foto": "https://github.com/user-attachments/assets/7c7614d0-0699-491e-82cc-a59c43bb44b5",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Mobiliario",
+        "fecha": "2024",
+        "signo": "fabricacion",
+        "foto": "https://github.com/user-attachments/assets/32abfc25-c7d3-45c9-9871-ce05ba3964b4",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Marinus (Graus Nigra)",
+        "fecha": "2022",
+        "signo": "fabricacion",
+        "foto": "https://github.com/user-attachments/assets/ae7afc3b-f0e3-459b-a5f4-afba832d4ea9",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "BlueBird Café",
+        "fecha": "2022",
+        "signo": "modelado3D",
+        "foto": "https://github.com/user-attachments/assets/1f2988f2-ddc1-4bf4-9d3f-243b6b78638a",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Cómo enfrentar a un Dragon",
+        "fecha": "2022",
+        "signo": "audiovisual",
+        "foto": "https://github.com/user-attachments/assets/b9e21fa2-f770-4629-af56-276a5c643f6b",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Kelp Me!",
+        "fecha": "2022",
+        "signo": "ilustracion",
+        "foto": "https://github.com/user-attachments/assets/e20e7411-c365-4a5a-b958-26d2a8adc686",
+        "github": "https://github.com/mister-worldwide"
+    }
+]
